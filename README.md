@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Abu Sayed Tareq**
-**Data Analyst | Business Intelligence Specialist | Reporting Automation Engineer**
+**Data Analysis | Business Intelligence | Report Automation**
 
 📍 Dhaka, Bangladesh  
 📧 **tareq.abusayed@gmail.com**  
